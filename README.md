@@ -84,8 +84,8 @@
 # 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sasomu353-netizen&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&cache_seconds=1800" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sasomu353-netizen&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1800" alt="Top Languages" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=sasomu353-netizen&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&cache_seconds=1800" alt="GitHub Stats" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=sasomu353-netizen&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1800" alt="Top Languages" />
 </p>
 
 <p align="center">
