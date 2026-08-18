@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm SOMWAREHCR</h1>
+<h1 align="center">Hi 👋, I'm sasomu353-netizen</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;ML+%2F+Data+Science+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
@@ -84,38 +84,38 @@
 # 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SOMWAREHCR&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&cache_seconds=1800" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SOMWAREHCR&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1800" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sasomu353-netizen&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&cache_seconds=1800" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sasomu353-netizen&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1800" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=SOMWAREHCR&theme=dark&hide_border=false&cache_seconds=1800" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=sasomu353-netizen&theme=dark&hide_border=false&cache_seconds=1800" alt="GitHub Streak" />
 </p>
 
 ## 📈 Animated Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SOMWAREHCR&theme=react-dark&hide_border=true&area=true" alt="Animated Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sasomu353-netizen&theme=react-dark&hide_border=true&area=true" alt="Animated Activity Graph" />
 </p>
 
 ---
 
 # 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=SOMWAREHCR&theme=dark&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=sasomu353-netizen&theme=dark&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 
 # 👀 Profile Views
 
-![](https://komarev.com/ghpvc/?username=SOMWAREHCR&label=Profile%20Views&color=0e75b6&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=sasomu353-netizen&label=Profile%20Views&color=0e75b6&style=for-the-badge)
 
 ---
 
 # 🐍 Contribution Snake
 
-![GitHub Snake](https://raw.githubusercontent.com/SOMWAREHCR/SOMWAREHCR/output/github-contribution-grid-snake.svg)
+![GitHub Snake](https://raw.githubusercontent.com/sasomu353-netizen/sasomu353-netizen/output/github-contribution-grid-snake.svg)
 
 ---
 
-⭐ From [SOMWAREHCR](https://github.com/SOMWAREHCR)
+⭐ From [sasomu353-netizen](https://github.com/sasomu353-netizen)
