@@ -1,3 +1,9 @@
+<h1 align="center">Hi 👋, I'm SOMWAREHCR</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;ML+%2F+Data+Science+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+</p>
+
 # 💻 Tech Stack
 
 ## 🚀 Programming Languages
@@ -77,21 +83,26 @@
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=SOMWAREHCR&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SOMWAREHCR&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&cache_seconds=1800" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SOMWAREHCR&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1800" alt="Top Languages" />
+</p>
 
-<br/>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=SOMWAREHCR&theme=dark&hide_border=false&cache_seconds=1800" alt="GitHub Streak" />
+</p>
 
-![](https://streak-stats.demolab.com/?user=SOMWAREHCR&theme=dark&hide_border=false)
+## 📈 Animated Contribution Graph
 
-<br/>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SOMWAREHCR&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SOMWAREHCR&theme=react-dark&hide_border=true&area=true" alt="Animated Activity Graph" />
+</p>
 
 ---
 
 # 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=SOMWAREHCR&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=SOMWAREHCR&theme=dark&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 
